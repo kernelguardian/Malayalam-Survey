@@ -1,0 +1,11 @@
+name: scrape
+channels:
+  - defaults
+dependencies:
+  - asn1crypto=0.24.0=py37_0
+  - ca-certificates=2019.5.15=1
+  - certifi=2019.6.16=py37_1
+  - cffi=1.12.3=py37h7a1dbc1_0
+  - cryptography=2.7=py37h7a1dbc1_0
+  - idna=2.8=py37_0
+  - openssl=1.1.1c=he774522_1
